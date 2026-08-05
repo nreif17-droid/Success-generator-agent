@@ -53,5 +53,8 @@ poor habit path in his mind, and those behaviors deteriorate his mental
 and physical health. His own assessment: "they're shit, and I need to
 change."
 
-Counter-move: *(pending — confirm "name it out loud" is still the actual
-move used, or get the current one)*
+Counter-move: focus on the breath — coming back to it as the main
+strategy. Slow the breathing, slow the heart rate, calm and center
+himself. Be present, open his heart, try to get closer to what he
+describes as "the frequency of love" for himself and for the world.
+Reports this usually makes him feel better and helps the situation.
