@@ -74,9 +74,21 @@ Reports this usually makes him feel better and helps the situation.
 
 ## Current ventures
 See `domains/*.md` for status on each individual venture (agency, coaching
-practice, sales job, apparel brand, grid startup — per `README.md`). As of
-2026-08-05, only `domains/agency.md` exists; the other four are not yet
-captured.
+practice, sales job, apparel brand, grid startup — per `README.md`).
+
+**Priority order, as stated 2026-08-05:** the short-term-rental-automation
+agency (`domains/agency.md`) is top priority — "groundwork foundation,"
+the first step to getting his foot in the door and making capital. That
+capital is then meant to roll into the apparel/clothing brand. From there,
+priority rolls further to the electric grid automation venture (research
+and buildout). Coaching practice is explicitly on hold, deprioritized
+below all three (see `domains/coaching-practice.md`). He referred to this
+as focus on "the two projects" while naming three in sequence — worth
+confirming with him directly which two he means before treating this
+ordering as fully resolved. Sales job not yet addressed in this ordering.
+
+As of this entry, `domains/agency.md` and `domains/coaching-practice.md`
+exist; sales job, apparel brand, and grid startup are not yet captured.
 
 ## Log
 - **2026-08-05** — Full 20-year vision captured via `agents/vision-intake.md`
