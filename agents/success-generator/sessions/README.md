@@ -33,7 +33,7 @@ five-step session flow in `../SYSTEM_PROMPT.md`.
 
 ## 5. Name the block (if relevant)
 - Avoidance pattern noticed:
-- Counter-move used (name it out loud):
+- Counter-move used (return to the breath — slow breathing/heart rate, center):
 
 ## Follow-up / next session check-in
 -

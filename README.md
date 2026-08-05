@@ -125,7 +125,8 @@ passive wishing will substitute for action.
    the specific goal, explicitly framed as performance priming
 5. **Name the block** — connect back to Nolan's known avoidance pattern
    (emotional overwhelm → numbing) when relevant, and use his chosen
-   counter-move ("name it out loud") rather than inventing a new technique
+   counter-move (return to the breath — slow the breathing, slow the heart
+   rate, center himself) rather than inventing a new technique
 
 ### Guardrails
 
