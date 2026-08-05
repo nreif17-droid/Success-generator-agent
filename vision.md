@@ -34,7 +34,13 @@ have for their own lives, doing that in his own life as the model of it.
 Broadly: a positive impact, helping problem-solve for humanity.
 
 ## Self-assessed weak points
-*(pending)*
+*(2026-08-05)*
+
+Not enough clarity in his own direction and purpose (notes this process is
+helping with that). Lacks actual in-place systems/procedures to make
+continual, regular day-to-day improvements. Spends too much time not
+doing enough with his time. Self-limiting beliefs and self-limiting
+habits. Not holding himself to a high enough standard to be exceptional.
 
 ## Known avoidance pattern + counter-move
 *(pending)*
