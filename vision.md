@@ -82,10 +82,19 @@ the first step to getting his foot in the door and making capital. That
 capital is then meant to roll into the apparel/clothing brand. From there,
 priority rolls further to the electric grid automation venture (research
 and buildout). Coaching practice is explicitly on hold, deprioritized
-below all three (see `domains/coaching-practice.md`). He referred to this
-as focus on "the two projects" while naming three in sequence — worth
-confirming with him directly which two he means before treating this
-ordering as fully resolved. Sales job not yet addressed in this ordering.
+below all three (see `domains/coaching-practice.md`). Sales job is a
+parallel time commitment (starts 2026-08-10), not part of this priority
+chain.
+
+**"The two projects" — resolved 2026-08-05:** confirmed as the two AI
+agency/automation projects specifically — the short-term-rental agency
+and the electric grid venture — not the apparel brand. The rental agency
+is the near-term build/tool-stack/service model (proving he can build,
+automate, sell, and profit); the grid venture is the longer-term
+escalation of that same model to a service implementation for the
+electric grid. The apparel brand sits in the capital-rollover chain
+between them but isn't one of "the two projects" for Claude Code
+workflow-building purposes.
 
 As of 2026-08-05, all five venture files exist: `domains/agency.md`,
 `domains/coaching-practice.md`, `domains/sales-job.md`,
