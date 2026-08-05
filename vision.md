@@ -87,8 +87,14 @@ as focus on "the two projects" while naming three in sequence — worth
 confirming with him directly which two he means before treating this
 ordering as fully resolved. Sales job not yet addressed in this ordering.
 
-As of this entry, `domains/agency.md` and `domains/coaching-practice.md`
-exist; sales job, apparel brand, and grid startup are not yet captured.
+As of 2026-08-05, all five venture files exist: `domains/agency.md`,
+`domains/coaching-practice.md`, `domains/sales-job.md`,
+`domains/apparel-brand.md`, `domains/grid-startup.md`. The grid startup is
+explicitly tiered behind the agency — the agency serves as a personal
+trial run (build/automate/sell/profit, learn Claude + business operation,
+build track record) before committing significant time to the much
+larger grid venture, which is itself still in a pre-commitment
+viability-research stage (18–30 month ideal time-to-implementation).
 
 ## Log
 - **2026-08-05** — Full 20-year vision captured via `agents/vision-intake.md`
