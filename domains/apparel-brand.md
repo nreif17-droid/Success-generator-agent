@@ -11,10 +11,12 @@ Last updated: 2026-08-05 (vision-intake capture)
   setup.
 
 ## Active goal
-*(not explicitly stated this pass — implied next steps are finishing the
-graphics → mockups → supplier pipeline and standing up the website/
-company/email; confirm a single active goal with him directly rather than
-inferring one.)*
+Two dated targets, given 2026-08-05:
+- Mockups to supplier within ~3 weeks (~2026-08-26).
+- Site live within ~3 months (~2026-11-05).
 
 ## Friction / blocker
-Not explicitly named this pass.
+None named specifically. He was explicit that this venture is **not the
+main focus / not the priority right now** — consistent with the priority
+order in `vision.md` (agency first, capital rolled into this venture
+next, then grid startup).
