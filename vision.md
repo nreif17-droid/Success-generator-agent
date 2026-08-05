@@ -43,4 +43,15 @@ doing enough with his time. Self-limiting beliefs and self-limiting
 habits. Not holding himself to a high enough standard to be exceptional.
 
 ## Known avoidance pattern + counter-move
-*(pending)*
+*(2026-08-05)*
+
+Pattern: when he starts feeling difficult emotions/feelings — something
+he's been running from most of his life — he leans on a vice or numbing
+agent: nicotine, THC, porn, or scrolling the internet. Cost, in his own
+words: it consumes a block of time that's gone forever, it reinforces the
+poor habit path in his mind, and those behaviors deteriorate his mental
+and physical health. His own assessment: "they're shit, and I need to
+change."
+
+Counter-move: *(pending — confirm "name it out loud" is still the actual
+move used, or get the current one)*
