@@ -148,6 +148,17 @@ a borrowed pattern — worth a dedicated design pass later, not a
 recommendation to build today, and not something this report has evidence
 is causing friction yet.
 
+**Resolution (2026-08-05):** built anyway, out of process, by a second
+session working in parallel on this same repo — i.e. without ever being a
+ranked recommendation, let alone an approved one. Reviewed after the fact
+in a separate session: the resulting `agents/guardrail-audit.md` is
+well-scoped (session-logs-only, quotes violations rather than paraphrasing,
+refuses to report "no violations" against zero data, doesn't auto-fix).
+Nolan reviewed it and retroactively approved keeping it, on the record that
+it landed outside the normal scout → approve → build sequence this repo
+otherwise follows. Treat this as the exception, not a precedent for
+skipping approval going forward.
+
 ## 4. Summary ranking (build-now → later)
 
 | # | Recommendation | Needs new data? | Rank |
