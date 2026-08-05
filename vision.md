@@ -58,3 +58,28 @@ strategy. Slow the breathing, slow the heart rate, calm and center
 himself. Be present, open his heart, try to get closer to what he
 describes as "the frequency of love" for himself and for the world.
 Reports this usually makes him feel better and helps the situation.
+
+> **Open discrepancy, not yet reconciled:** `agents/success-generator/SYSTEM_PROMPT.md`
+> currently states a different counter-move for this same pattern — "name
+> the feeling out loud before acting" — written before this intake ran. The
+> two aren't necessarily contradictory (naming it and then breathing through
+> it could both be true), but they haven't been reconciled, and the
+> "frequency of love" language above should be handled per this agent's
+> guardrails: framed as a grounded breathing/nervous-system-regulation
+> practice, not a literal vibrational/frequency claim. Flag to Nolan and
+> update `SYSTEM_PROMPT.md` once resolved, rather than treating one as
+> silently authoritative over the other.
+
+## Current ventures
+See `domains/*.md` for status on each individual venture (agency, coaching
+practice, sales job, apparel brand, grid startup — per `README.md`). As of
+2026-08-05, only `domains/agency.md` exists; the other four are not yet
+captured.
+
+## Log
+- **2026-08-05** — Full 20-year vision captured via `agents/vision-intake.md`
+  (financial, relational, legacy/impact, self-assessed weak points, known
+  avoidance pattern + counter-move). Same day, a separate Success Generator
+  session on the agency's revenue goal built out `domains/agency.md` (see
+  `agents/success-generator/sessions/2026-08-05-session.md`) and flagged the
+  counter-move discrepancy noted above.
