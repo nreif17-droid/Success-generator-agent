@@ -11,7 +11,18 @@ Success Generator sessions, not here.
 Net worth of **$1 billion minimum**, within 20 years.
 
 ## Relational goals
-*(pending)*
+*(2026-08-05)*
+
+Priority on a healthy, positive, caring, loving relationship with family —
+mother, father, sister. On good terms with them, present in their life
+regularly, there for them as they need him, for as long as they're here.
+
+Twenty years out, plans on having had kids. Two possible paths, both live:
+(1) happily/successfully married, with a family and a home; or (2) if he
+reaches a hyper-successful, hyper-wealthy level, he's inclined toward a
+communal relationship structure with multiple intimate partners rather
+than one woman/one family unit — including children by one or several of
+them.
 
 ## Legacy / impact goals
 *(pending)*
