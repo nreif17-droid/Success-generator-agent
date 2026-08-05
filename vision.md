@@ -25,7 +25,13 @@ than one woman/one family unit — including children by one or several of
 them.
 
 ## Legacy / impact goals
-*(pending)*
+*(2026-08-05)*
+
+To have changed people's lives for the better — created opportunity for
+others, helped those who are suffering, given back. To have inspired
+individuals to pursue their greatest self and the greatest vision they
+have for their own lives, doing that in his own life as the model of it.
+Broadly: a positive impact, helping problem-solve for humanity.
 
 ## Self-assessed weak points
 *(pending)*
