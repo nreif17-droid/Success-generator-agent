@@ -25,11 +25,24 @@ over the next 6 months**, using largely free/low-cost go-to-market
 channels, funded mostly by *time*, not cash. This changes the model
 substantially from the earlier ad-spend-heavy version — see below.
 
+**Starting point (confirmed 2026-08-05): under 300 followers** on the
+personal page that's the launch vehicle. Worth naming plainly: 6 months
+to build a following large/engaged enough to meaningfully replace paid
+acquisition, starting from under 300, is a real stretch goal — not
+impossible, but the timeline in this model should be read as optimistic-
+if-the-content-system-actually-runs, not a conservative baseline.
+
 ### Go-to-market channels for a near-zero ad budget
 
 - **Creator/influencer seeding, paid in product, not dollars** — send
   free units to 5–15 micro-influencers/fitness creators in exchange for
-  posts. Costs product (the cheapest line item), not ad spend.
+  posts. Costs product (the cheapest line item), not ad spend. Confirmed
+  2026-08-05: 10 units earmarked for seeding — **exact allocation still
+  open** (10 of the full 100-unit run, or 10 per garment/20 total — see
+  `domains/apparel-brand-system.md` §7). Template + tracking log:
+  `domains/apparel-brand-influencer-outreach-template.md`. Subtract
+  whichever number is decided from sellable Phase 1 inventory (100 minus
+  seeded units minus 2 kept for Nolan's own personal-wear stock).
 - **Pre-launch waitlist** — every piece of content posted during the
   6-month build-up should route to an email/SMS list, so day-1 orders
   come from a warm list, not cold ads.

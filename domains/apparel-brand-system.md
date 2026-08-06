@@ -150,6 +150,41 @@ made under pressure later — thresholds are placeholders to be sanity
   work manually, not what's guessed to work — matches the same "prove it
   by hand first" discipline used in the agency's outreach system.
 
+## 7. Audience building (added 2026-08-05)
+
+The system behind the "audience-first" go-to-market strategy in
+`domains/apparel-brand-financial-model.md` — built now so this is a
+tracked practice, not a stated intention. Starting point: under 300
+followers on Nolan's existing personal page, which is the launch vehicle
+(no separate brand account decided yet).
+
+- **Daily minimum:** post or story content on the personal page related
+  to the brand — wearing product (once samples/inventory exist) or
+  building-in-public content before then. Stretch: same, plus one piece
+  of direct audience engagement (reply to comments/DMs, a poll, etc.).
+- **Weekly review (same cadence as the other ventures' reviews):**
+  follower count, content pieces posted vs. the daily minimum, waitlist
+  signups, any influencer outreach replies — tallied together so
+  "building an audience" has an actual number behind it each week, not a
+  vague sense of progress.
+- **Personal-wear commitment:** at least one unit of each Phase 1 garment
+  kept back from inventory specifically to wear consistently — not
+  counted as sellable stock.
+- **Micro-influencer seeding:**
+  - Target range: roughly 5,000–50,000 followers in the fitness/gym
+    niche (a common working definition of "micro-influencer" — not a
+    hard rule).
+  - Units allocated: **10 units — open item, needs Nolan's call: 10 out
+    of the full 100-unit Phase 1 run, or 10 per garment (20 total)?**
+    Revise the sellable-inventory math in `domains/apparel-brand-
+    financial-model.md` once decided.
+  - Ask: one post minimum, wearing the product, tagging the brand —
+    documented in the outreach template:
+    `domains/apparel-brand-influencer-outreach-template.md`.
+  - Selection/tracking: same discipline as vendor outreach — track who
+    was contacted, follower count, response, and whether the post
+    actually happened, not just who agreed.
+
 ## Open items
 
 - Sales channel not finalized (Shopify vs. an AI store-builder tool TBD)
@@ -158,3 +193,5 @@ made under pressure later — thresholds are placeholders to be sanity
   placeholders pending real operating data — flagged explicitly rather
   than presented as decided numbers.
 - LLC formation for this venture not yet started.
+- Micro-influencer seeding allocation (10 of 100 vs. 10 per garment) not
+  yet decided — see §7.
