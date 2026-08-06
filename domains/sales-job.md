@@ -40,6 +40,10 @@ specifically to catch this if it's real.
   the week against the 18% minimum / 20% stretch; note which time slots
   underperformed (fatigue check); decide one adjustment for the coming
   week.
-- **Tracking:** `domains/sales-job-tracking.md`, via `agents/habit-tracker.md`.
+- **Tracking:** per-appointment detail (outcome, deal value, objections,
+  notes) goes in `domains/sales-job-appointment-log.xlsx` (Appointment Log
+  + Weekly Summary tabs, auto-calculating close rate vs. 18%/20%). The
+  daily minimum/stretch check-in itself is logged in
+  `domains/sales-job-tracking.md`, via `agents/habit-tracker.md`.
 - **Accountability:** no mastermind currently; the weekly review itself is
   the accountability point for now — same structure as the agency.
