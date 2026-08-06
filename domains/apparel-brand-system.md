@@ -71,7 +71,9 @@ capital and demand actually prove out.
 - **Process:** request samples from 2–3 candidate manufacturers before
   committing → evaluate against the criteria above → select primary
   vendor → identify one backup vendor (not used yet, just identified) so
-  a primary-vendor failure isn't a from-scratch search.
+  a primary-vendor failure isn't a from-scratch search. Outreach message
+  template + response tracking log:
+  `domains/apparel-brand-vendor-outreach-template.md`.
 - **Reorder trigger:** define a specific inventory threshold (e.g., "when
   a design drops below 15 units on hand") that triggers a reorder
   conversation — decided for real once first inventory exists, not
