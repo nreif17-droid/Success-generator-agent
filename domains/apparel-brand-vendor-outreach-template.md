@@ -23,21 +23,25 @@ table at the bottom so the comparison is visible, not just remembered.
 > I'm launching an apparel brand and looking for a small-batch production
 > partner for an initial run. Details:
 >
-> - **Garment type:** [e.g. heavyweight cotton tee, hoodie]
+> - **Garment type:** [e.g. heavyweight cotton tee, hoodie] — color: black
 > - **Quantity:** [50–150] units for the first design, with more designs
 >   and larger runs planned if this first run goes well
-> - **Print/decoration method:** [e.g. screen print, DTG, embroidery —
->   fill in once decided]
+> - **Print/decoration method:** DTG (direct-to-garment) — full-color
+>   gradient artwork, will need a white underbase layer for the design
+>   elements that don't fade into the black garment
 > - **Timeline:** looking to place a first order within [X weeks]
 >
 > Before committing, I'd like to:
 > 1. Get your minimum order quantity and per-unit pricing at that
 >    quantity.
-> 2. Get a paid sample made from my actual design, not a stock/blank
+> 2. Confirm your DTG capability on black garments, including selective
+>    underbasing (some areas of the design are meant to blend into the
+>    black fabric, not print with a full underbase).
+> 3. Get a paid sample made from my actual design, not a stock/blank
 >    sample.
-> 3. Understand your typical production lead time from order placed to
+> 4. Understand your typical production lead time from order placed to
 >    ready-to-ship.
-> 4. If possible, a reference or review history from a comparable small
+> 5. If possible, a reference or review history from a comparable small
 >    brand you've worked with.
 >
 > Could you send over pricing and sample-order details? Happy to share
