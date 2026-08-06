@@ -174,10 +174,9 @@ followers on Nolan's existing personal page, which is the launch vehicle
   - Target range: roughly 5,000–50,000 followers in the fitness/gym
     niche (a common working definition of "micro-influencer" — not a
     hard rule).
-  - Units allocated: **10 units — open item, needs Nolan's call: 10 out
-    of the full 100-unit Phase 1 run, or 10 per garment (20 total)?**
-    Revise the sellable-inventory math in `domains/apparel-brand-
-    financial-model.md` once decided.
+  - Units allocated: **confirmed 2026-08-05 — 10 hoodies + 10 pump
+    covers (20 units total)**, split evenly across both Phase 1
+    garments.
   - Ask: one post minimum, wearing the product, tagging the brand —
     documented in the outreach template:
     `domains/apparel-brand-influencer-outreach-template.md`.
@@ -193,5 +192,3 @@ followers on Nolan's existing personal page, which is the launch vehicle
   placeholders pending real operating data — flagged explicitly rather
   than presented as decided numbers.
 - LLC formation for this venture not yet started.
-- Micro-influencer seeding allocation (10 of 100 vs. 10 per garment) not
-  yet decided — see §7.

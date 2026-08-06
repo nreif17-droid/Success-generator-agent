@@ -32,17 +32,24 @@ acquisition, starting from under 300, is a real stretch goal — not
 impossible, but the timeline in this model should be read as optimistic-
 if-the-content-system-actually-runs, not a conservative baseline.
 
+### Sellable inventory (revised with seeding confirmed)
+
+Of the 100-unit Phase 1 run (50 hoodie + 50 pump cover): **20 units go
+to influencer seeding** (10 hoodie + 10 pump cover) and **2 units are
+kept back for Nolan's own personal-wear stock** (1 per garment, per
+`domains/apparel-brand-system.md` §7) — leaving **78 units actually
+sellable** (39 hoodie + 39 pump cover). At the $55 AOV placeholder,
+that's **~$4,290 in maximum Phase 1 revenue**, not $5,500 — revise every
+scenario below accordingly once real numbers replace the placeholders.
+
 ### Go-to-market channels for a near-zero ad budget
 
 - **Creator/influencer seeding, paid in product, not dollars** — send
-  free units to 5–15 micro-influencers/fitness creators in exchange for
-  posts. Costs product (the cheapest line item), not ad spend. Confirmed
-  2026-08-05: 10 units earmarked for seeding — **exact allocation still
-  open** (10 of the full 100-unit run, or 10 per garment/20 total — see
-  `domains/apparel-brand-system.md` §7). Template + tracking log:
-  `domains/apparel-brand-influencer-outreach-template.md`. Subtract
-  whichever number is decided from sellable Phase 1 inventory (100 minus
-  seeded units minus 2 kept for Nolan's own personal-wear stock).
+  free units to fitness creators in exchange for posts. Costs product
+  (the cheapest line item), not ad spend. **Confirmed 2026-08-05: 10
+  hoodies + 10 pump covers (20 units total)** — split evenly across both
+  Phase 1 garments. Template + tracking log: `domains/apparel-brand-
+  influencer-outreach-template.md`.
 - **Pre-launch waitlist** — every piece of content posted during the
   6-month build-up should route to an email/SMS list, so day-1 orders
   come from a warm list, not cold ads.
@@ -128,9 +135,10 @@ not the product-cost or Phase 2 assumptions.
 ## Ad-spend-heavy scenario (kept for reference only — not the chosen path)
 
 If ad spend were used instead of the audience-first approach, at $55 AOV
-and $90-180 cold CAC, acquiring ~90 customers to sell 100 units would
-cost roughly $8,100-$16,200 in ad spend alone — likely exceeding Phase
-1's ~$5,500 in revenue in every scenario. This is why the audience-first
+and $90-180 cold CAC, acquiring enough customers to sell the 78 sellable
+units (after seeding/personal-wear, above) would cost roughly
+$6,300-$12,600 in ad spend alone — still likely exceeding Phase 1's
+~$4,290 max revenue in every scenario. This is why the audience-first
 path was chosen; kept here only so the comparison is visible, not as a
 live option.
 

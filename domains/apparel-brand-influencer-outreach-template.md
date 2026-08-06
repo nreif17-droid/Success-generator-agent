@@ -9,10 +9,11 @@ costs product, not ad spend.
 
 Send to candidates in the ~5,000–50,000 follower range in the
 fitness/gym niche. Track responses in the log below so seeding decisions
-are visible, not just remembered. **Unit allocation still open** — see
-`domains/apparel-brand-system.md` §7: 10 units total out of the 100-unit
-Phase 1 run, or 10 per garment (20 total)? Confirm before sending real
-offers, since it changes how many creators can actually be seeded.
+are visible, not just remembered. **Unit allocation confirmed 2026-08-05:
+10 hoodies + 10 pump covers (20 units total)** — split evenly across
+both Phase 1 garments, so plan roughly 10 creators per garment (or fewer
+creators seeded with more than one piece, if that fits better once
+outreach is underway).
 
 ---
 
