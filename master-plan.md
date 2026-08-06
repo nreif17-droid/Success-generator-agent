@@ -160,7 +160,13 @@ sessions, not inventing a new read:
   apparel's time investment further (it's already the most
   capital-gated, lowest-urgency piece) — not agency's.
 
-## 7. Open items / next review triggers
+## 7. Day-to-day execution
+
+See `daily-checklist.md` for the tactical daily/weekly checklist this
+plan feeds into — this file is the strategic view, that one is "what do I
+actually do today."
+
+## 8. Open items / next review triggers
 
 - Confirm actual sales-job scheduled days/week once the job starts —
   revise §3's capacity numbers once this is real.

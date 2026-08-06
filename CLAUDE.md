@@ -52,6 +52,7 @@ agents/success-generator/
 research/                       skill-scout recommendation reports
 vision.md                       Nolan's 20-year vision (5 sections, complete)
 master-plan.md                  cross-venture 12-month integration/timeline plan
+daily-checklist.md              cross-venture daily/weekly tactical checklist
 domains/*.md                    per-venture status/goal/friction/system files
 ```
 
