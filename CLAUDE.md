@@ -50,7 +50,9 @@ agents/success-generator/
   knowledge/                     per-author principle summaries + caveats
   sessions/                      dated session logs (README.md = template)
 research/                       skill-scout recommendation reports
-vision.md, domains/*.md         Nolan's vision + ventures (not yet built — see research/)
+vision.md                       Nolan's 20-year vision (5 sections, complete)
+master-plan.md                  cross-venture 12-month integration/timeline plan
+domains/*.md                    per-venture status/goal/friction/system files
 ```
 
 ## Working in this repo

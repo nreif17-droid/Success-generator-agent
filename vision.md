@@ -96,6 +96,10 @@ electric grid. The apparel brand sits in the capital-rollover chain
 between them but isn't one of "the two projects" for Claude Code
 workflow-building purposes.
 
+See `master-plan.md` for the cross-venture integration layer — how all
+five ventures fit together on a 12-month timeline, capacity reality,
+dependencies, and overlap analysis (built 2026-08-05).
+
 As of 2026-08-05, all five venture files exist: `domains/agency.md`,
 `domains/coaching-practice.md`, `domains/sales-job.md`,
 `domains/apparel-brand.md`, `domains/grid-startup.md`. The grid startup is
