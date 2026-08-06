@@ -108,6 +108,13 @@ capital and demand actually prove out.
 
 ## 5. Profitability tracking
 
+See `domains/apparel-brand-financial-model.md` for the 12-month phased
+launch projection (Phase 1: hoodie + pump cover; Phase 2: shorts,
+sweatpants, compression shirt) — built as a labeled-assumptions
+framework, not promised figures, with an open cost-reconciliation item
+flagged at the top.
+
+
 - **Per-unit economics to track, once real numbers exist:** cost per unit
   (manufacturing + shipping-to-you), sale price, payment-processing fee,
   shipping-to-customer cost, resulting margin per unit. This is a
