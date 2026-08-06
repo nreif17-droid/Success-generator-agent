@@ -6,88 +6,128 @@ not a promised outcome** — per the guardrails this agent operates under,
 financial projections get informational framing, never a guaranteed
 result. Every number below is either a stated assumption (confirm/adjust)
 or a range from real industry benchmarks (cited) — swap in real numbers
-as vendor quotes and ad performance data come in.
+as vendor quotes and real content/sales data come in.
 
-## Open reconciliation — resolve before trusting this model
+## Cost reconciliation — resolved 2026-08-05
 
-Nolan's stated launch cost: ~$8,000 for the two Phase 1 items (50 hoodie
-+ 50 pump cover). This session's desk-research unit-cost estimate for
-that same 100 units was ~$1,250–$2,300. **This gap is unresolved** —
-could be a different unit-cost assumption, or the $8k bundling in
-non-product costs (samples, decoration setup, packaging, site, initial ad
-budget). Confirm which before treating either number as real. The model
-below uses labeled placeholder assumptions either way.
+Nolan's original $8,000 figure was an unanchored guess, not a real
+estimate. Corrected: **~$2,500 for Phase 1 product** (100 units: 50
+hoodie + 50 pump cover) — this lines up with the session's earlier desk
+estimate (~$1,250–$2,300), close enough to treat as roughly confirmed
+pending real vendor quotes. Marketing/tools costs are separate line
+items, not yet quantified — flagged below.
 
-## Assumptions used in this model (label: confirm/adjust each)
+## Strategy decision — resolved 2026-08-05: audience-first, not ad-spend-heavy
+
+Nolan confirmed he does not have significant capital for ad spend and
+does not intend to lean into it. Instead: **building his own audience
+over the next 6 months**, using largely free/low-cost go-to-market
+channels, funded mostly by *time*, not cash. This changes the model
+substantially from the earlier ad-spend-heavy version — see below.
+
+### Go-to-market channels for a near-zero ad budget
+
+- **Creator/influencer seeding, paid in product, not dollars** — send
+  free units to 5–15 micro-influencers/fitness creators in exchange for
+  posts. Costs product (the cheapest line item), not ad spend.
+- **Pre-launch waitlist** — every piece of content posted during the
+  6-month build-up should route to an email/SMS list, so day-1 orders
+  come from a warm list, not cold ads.
+- **Warm-network soft launch** — friends, gym community, family, and
+  contacts made through the agency/sales job. No CAC on a sale to
+  someone who already trusts him.
+- **Organic content** (TikTok/Reels/Shorts) — free reach, and the same
+  skill/interest already named as genuine, not a separate initiative.
+- **Local/in-person seeding** — gym partnerships, local fitness
+  community — direct product-in-hand distribution, fits a
+  fitness-apparel brand specifically.
+- **Referral mechanics once any customers exist** — a discount code for
+  early buyers to share turns customer 1 into part of the acquisition
+  channel for customer 2, instead of paying CAC again.
+
+### The real cost of this path: time, not cash
+
+The trade being made here is **explicit and worth stating plainly**: instead
+of paying $90–180 per cold customer (see the ad-spend-heavy scenario
+below, kept for comparison), the cost becomes **consistent content output
+for 6 months** — a genuine time commitment. Per `master-plan.md`, time is
+already the tightest resource in this whole portfolio (agency 10–15
+hr/wk non-negotiable, sales job hours unconfirmed but likely heavy). Six
+months of consistent posting is a real draw on that same limited time,
+not a free lever — it should be tracked as its own system (cadence,
+platform, what "consistent" actually means weekly) the same way agency
+and sales job got tracked systems, not left as a vague intention.
+**Not yet built — a candidate for the next session on this venture.**
+
+## Assumptions used in this model (confirm/adjust each)
 
 | Assumption | Value used here | Source / confidence |
 |---|---|---|
-| Phase 1 unit cost (blended, hoodie+pump cover) | **$20/unit placeholder** (low end of desk estimate) — *or* **$80/unit** if Nolan's $8k figure is pure product cost | Unconfirmed — pick one or supply real vendor quote |
+| Phase 1 product cost (100 units) | **~$2,500** | Reconciled 2026-08-05, close to earlier desk estimate — still not a real vendor quote |
 | Phase 1 retail price (blended, hoodie+pump cover) | **$55/unit placeholder** | Reference: Gymshark hoodies ~$60-75, YoungLA hoodies ~$50-65, joggers/pump-cover-adjacent pieces ~$45-60 |
-| Cold-traffic CAC (zero existing audience) | **$90-180/new customer** | [Eightx CAC by vertical](https://eightx.co/blog/average-cac-ecommerce-vertical), [Let's Talk Shop DTC CAC benchmarks](https://www.letstalkshop.com/blog/dtc-customer-acquisition-cost-benchmarks) |
-| Cold prospecting ROAS (Meta) | **1.5x-3x** | [Hawky.ai ROAS benchmarks 2026](https://hawky.ai/blog/roas-benchmarks-by-industry), [Adamigo Fashion Meta ROAS 2026](https://www.adamigo.ai/blog/fashion-ecommerce-meta-ads-roas-benchmarks-2026) |
+| Ad spend | **Minimal/near-zero** — confirmed 2026-08-05 | Nolan's stated capacity/capital constraint |
+| Marketing/tools budget | **Not yet quantified** | Open — needs a real number (site subscription, email/SMS tool, any paid creative tools) |
+| Warm/organic CAC (audience-first path) | **Low, largely time-cost not dollar-cost** — not benchmarked with a specific figure, since it depends entirely on actual audience size/engagement built over the 6 months | Directional only — real number only exists once the audience actually exists |
+| Cold-traffic CAC (kept for comparison only — the path Nolan is *not* taking) | $90-180/new customer | [Eightx CAC by vertical](https://eightx.co/blog/average-cac-ecommerce-vertical), [Let's Talk Shop DTC CAC benchmarks](https://www.letstalkshop.com/blog/dtc-customer-acquisition-cost-benchmarks) |
 | Units per order | 1.1 (light multi-item assumption) | Estimate, not benchmarked |
 | Phase 2 items | Shorts + sweatpants + compression shirt, 75 units each (225 units) | Nolan's stated plan, 2026-08-05 |
-| Phase 2 trigger | Phase 1 sell-through funds it ("straight back into producing the next line") | Nolan's stated plan |
+| Phase 2 trigger | Agency capital (per `master-plan.md`), **not** Phase 1 revenue | Revised 2026-08-05 — see below |
 
-## The math worth seeing before committing ad budget
+## What changes with the audience-first path
 
-At **$55 AOV** and **$90-180 CAC**, acquiring a customer costs as much
-as or more than the entire order value — this is a normal DTC pattern
-(you often lose money or barely break even on a customer's *first*
-purchase; the actual profit comes from repeat purchases and rising
-average order value over time), but it means **Phase 1 alone is not
-likely to be profitable on paper**, even in a reasonably-good-execution
-scenario. That's not a reason not to do it — it's the real cost of
-building a customer base with zero existing audience, and worth going in
-with eyes open rather than expecting Phase 1 itself to fund Phase 2 on
-its own.
+- **Cash burn drops dramatically.** No $8-16k ad-spend scenario. Cash out
+  for Phase 1 is close to the ~$2,500 product cost plus whatever the
+  marketing/tools line ends up being (open item).
+- **Timeline stretches.** Selling out 100 units "in a month" was always
+  the ad-spend-driven scenario. Without paid acquisition, sell-through
+  depends on how large and engaged the audience actually gets over the
+  6-month build — likely slower, and genuinely uncertain until there's
+  real data on audience size and content performance.
+- **Break-even math improves, but isn't the binding constraint anymore.**
+  At $55 retail / ~$25 cost per unit, gross margin is healthy (~55%) —
+  the binding constraint on this path isn't margin, it's **whether the
+  audience gets built at all**, which is a content-consistency problem,
+  not a financial one.
+- **This is not a "money dump to a threshold" pattern.** That framing
+  fit the ad-spend-heavy path specifically. This path trades cash for
+  time — a legitimate, often smarter bootstrapped approach given the
+  stated capital constraint, but it isn't free; the price is paid in
+  hours against an already-tight portfolio, not dollars.
 
-**Break-even ROAS** = 1 ÷ gross margin. At $55 retail / $20 cost (73%
-margin): break-even ROAS ≈ 1.4x — achievable within the 1.5-3x cold
-range. At $55 retail / $80 cost (loss before ad spend): the unit
-economics don't work at all — this is exactly why the $8k reconciliation
-above has to happen before any of the rest of this is trustworthy.
-
-## Three scenarios for Phase 1 (100 units: 50 hoodie + 50 pump cover)
-
-Using the $20/unit cost, $55 AOV placeholder (the version where the math
-can work) — **not** the $80/unit version, which doesn't clear break-even
-regardless of ad performance:
-
-| Scenario | CAC | Ad spend to sell 100 units (~90 orders) | Product cost | Total cash out | Revenue (100 units × $55) | Net (this phase only) |
-|---|---|---|---|---|---|---|
-| **Conservative** | $180 (high end, unproven creative) | ~$16,200 | ~$2,000 | ~$18,200 | $5,500 | **-$12,700** |
-| **Moderate** | $135 (mid-range) | ~$12,150 | ~$2,000 | ~$14,150 | $5,500 | **-$8,650** |
-| **Optimistic** | $90 (low end, good creative/offer) | ~$8,100 | ~$2,000 | ~$10,100 | $5,500 | **-$4,600** |
-
-**Reading this honestly:** at these AOV/CAC ranges, Phase 1 likely costs
-more in ad spend than it returns in revenue, in all three scenarios —
-consistent with the general DTC pattern above. The "sell out in a month"
-goal is about proving the product and starting to build a real audience/
-retargeting base, not about Phase 1 turning a profit on its own. If the
-plan depends on Phase 1's *revenue* funding Phase 2, that assumption
-needs to be revisited against the numbers above — Phase 2 funding likely
-needs to come from the same place Phase 1's capital did (agency capital,
-per `master-plan.md`'s dependency chain), not from Phase 1 sell-through.
-
-## 12-month phased timeline (assuming things go according to plan, not best case)
+## 12-month phased timeline (audience-first, revised 2026-08-05)
 
 | Month | Phase | What's happening | Capital needed |
 |---|---|---|---|
-| 1 | Phase 1 launch | 100 units (hoodie + pump cover) live, ad spend testing begins | ~$10-18k (product + ads, see scenarios above) |
-| 2-3 | Phase 1 continued | Iterating on ad creative/targeting as data comes in; sell-through likely slower than 1 month in a realistic (not optimistic) case | Ongoing ad spend, ideally CAC improving as creative is proven |
-| 4 | Phase 1 sold through (realistic case) | Real data now exists: actual CAC, actual conversion rate, actual repeat-purchase rate — replace every placeholder above with real numbers | — |
-| 5-6 | Phase 2 prep | Vendor order placed for shorts/sweatpants/compression shirt at 75 units each (225 units) — funded per `master-plan.md`'s capital chain, not assumed from Phase 1 revenue | Phase 2 product cost at 75-unit pricing (likely better per-unit than 50-unit Phase 1, worth confirming with vendor) |
-| 7-9 | Phase 2 launch | Full 5-garment line live; retargeting audience now exists from Phase 1 customers, which should meaningfully lower blended CAC vs. Phase 1's all-cold numbers | Ad spend, informed by real Phase 1 data instead of placeholder benchmarks |
-| 10-12 | Steady state / reassess | Full line established; review actual unit economics against this model's placeholders and revise the next 12 months from there | — |
+| 1-2 | Audience build + Phase 1 prep | Content posting begins; vendor order for 100 units (hoodie + pump cover) placed once a vendor is confirmed | ~$2,500 product + marketing/tools (TBD) |
+| 3-4 | Continued audience build | Waitlist growing; creator/influencer seeding begins (product-paid, not cash) | Product cost of seeded units (small, absorbed into the 100-unit run or a small addition) |
+| ~Month 6 | Phase 1 launch | Site live, warm-list + organic launch — no assumption of selling out in month 1; real sell-through rate is the first genuinely new data point | Marketing/tools ongoing |
+| 7-9 | Phase 1 sell-through, real data collected | Actual conversion rate, actual audience-to-customer rate — replace every placeholder above with real numbers | — |
+| 9-10 | Phase 2 decision point | Funded by agency capital (per `master-plan.md`'s dependency chain — agency's own target lands ~2027-01-31), not Phase 1 revenue | Phase 2 product cost, 75 units × 3 garments (225 units) |
+| 10-12 | Phase 2 launch (if capital lands on schedule) | Full 5-garment line, now with a real (not assumed) audience/retargeting base from months 1-9 | Ad spend, if any, now much cheaper against a warm base |
 
-## What actually needs to happen before this model means anything
+**Honest note on this timeline:** it's now *slower* than the original
+"sell out in a month" framing, but *cheaper and lower-risk* — a direct
+trade consistent with the capital and ad-spend constraints just
+confirmed. If the 6-month audience-build doesn't produce a meaningful
+list/following, this timeline is the piece most likely to need revising,
+not the product-cost or Phase 2 assumptions.
 
-1. Resolve the $8k vs. desk-estimate cost gap.
-2. Get real vendor quotes from the outreach already in progress
-   (`domains/apparel-brand-vendor-outreach-template.md`).
+## Ad-spend-heavy scenario (kept for reference only — not the chosen path)
+
+If ad spend were used instead of the audience-first approach, at $55 AOV
+and $90-180 cold CAC, acquiring ~90 customers to sell 100 units would
+cost roughly $8,100-$16,200 in ad spend alone — likely exceeding Phase
+1's ~$5,500 in revenue in every scenario. This is why the audience-first
+path was chosen; kept here only so the comparison is visible, not as a
+live option.
+
+## What actually needs to happen before this model means more
+
+1. Get real vendor quotes from the outreach already in progress
+   (`domains/apparel-brand-vendor-outreach-template.md`) to firm up the
+   ~$2,500 estimate.
+2. Quantify the marketing/tools budget line — currently unquantified.
 3. Decide an actual retail price (this model used a placeholder).
-4. Run a small, real ad test before committing the full Phase 1 budget —
-   the CAC range above is a benchmark, not a guarantee for this specific
-   brand/creative/audience.
+4. Build an actual audience-building system (cadence, platform, what
+   "consistent" means weekly) — currently a stated intention, not a
+   tracked system, unlike agency and sales job.
