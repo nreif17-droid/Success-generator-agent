@@ -42,8 +42,11 @@ specifically to catch this if it's real.
   week.
 - **Tracking:** per-appointment detail (outcome, deal value, objections,
   notes) goes in `domains/sales-job-appointment-log.xlsx` (Appointment Log
-  + Weekly Summary tabs, auto-calculating close rate vs. 18%/20%). The
-  daily minimum/stretch check-in itself is logged in
-  `domains/sales-job-tracking.md`, via `agents/habit-tracker.md`.
+  + Weekly Summary tabs, auto-calculating close rate vs. 18%/20%), or the
+  printable paper twin `domains/sales-job-appointment-log-printable.pdf`
+  (one Daily Appointment Log sheet per work day + a Weekly Summary sheet)
+  for days without laptop access. The daily minimum/stretch check-in
+  itself is logged in `domains/sales-job-tracking.md`, via
+  `agents/habit-tracker.md`.
 - **Accountability:** no mastermind currently; the weekly review itself is
   the accountability point for now — same structure as the agency.
