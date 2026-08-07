@@ -16,10 +16,16 @@ Last updated: 2026-08-05 (check-in, see below)
 - Pre-revenue: zero paying clients.
 - **Core system blocker, now concrete:** an agent has been designated for
   this project and holds the outreach data collection, but isn't
-  operational yet — needs an API key and "appropriate tools" connected.
-  **Which specific service/platform and what it connects to is still
-  unconfirmed** — flagged as open, not yet blocking today's outreach
-  push (that's running manually/independently of the agent for now).
+  operational yet — needs an API key and tool connections. **Confirmed:
+  the agent is meant to integrate with whatever PMS (property management
+  system) software the client company uses** (e.g. AppFolio, Buildium,
+  Guesty, Hostaway, Yardi — platforms vary by client). Scoping
+  implication: "deployable" means integrated with the *specific* PMS the
+  first real client uses, not a universal integration built in advance —
+  matches the same prove-it-with-one-real-case-first discipline used
+  elsewhere in this system. Which PMS is most common among the firms
+  actually being reached out to is worth confirming once outreach
+  produces real conversations.
 
 ## Niche
 - Property management firms (short-term rental focus).
@@ -68,12 +74,13 @@ operational enough to service them, by **January 31, 2027**.
   group is added.
 
 ## Open items
-- **Validation criteria for today's niche go/pivot decision — needs to
-  be set now, before results come in.**
+- **Validation criteria for today's niche go/pivot decision — still
+  needs to be set now, before results come in.**
 - LLC: no longer date-based — files once niche validation confirms
   pursuable (see Status).
-- Which service/platform the designated agent runs on, and what it needs
-  the API key + tool connections for — unconfirmed.
+- Which specific PMS platform to build the first integration against —
+  confirm once real conversations reveal what the target firms actually
+  use.
 - Mastermind/peer accountability: none yet — flagged as a possible later
   addition, not urgent.
 
