@@ -69,6 +69,14 @@ baseline retainer, scaling up to $5,000–$6,000/mo for large property
 management firms (more properties managed → more value delivered → higher
 price).
 
+## Research call flow
+
+See `domains/agency-research-call-flow.md` for the phone call structure
+built for this research phase — who to target (Operations Manager /
+Director of Operations, or whoever owns the workflow at smaller firms),
+the question flow mapped to the qualification criteria above, and how to
+log each call.
+
 ## Current 1-year target (set 2026-08-05)
 Sign and onboard 3 paying property-management-firm clients on the pilot
 retainer ladder above (~$7,000 combined MRR), with a deployable core system
