@@ -30,15 +30,23 @@ Last updated: 2026-08-05 (check-in, see below)
 ## Niche
 - Property management firms (short-term rental focus).
 - Value/pricing scales with number of properties managed by the client firm.
+- **This phase of outreach is explicitly market research, not a sales
+  push (confirmed 2026-08-05)** — the goal is data on whether the market
+  exists, not closing anyone yet.
 - **Qualification criteria (confirmed 2026-08-05)** — a prospect counts
   as qualified once a conversation confirms both:
   1. The process is currently handled manually (human staff time, not
      already software-automated).
   2. Real labor cost is tied to that manual work (a team on it,
      meaningful hours) — genuine savings potential from automating it.
-- **Funnel to track:** Touches sent → Connected (actual reply/live
-  conversation) → Qualified (meets both criteria above). Track qualified
-  ÷ connected, and qualified ÷ touches over time.
+- **Primary metric: applicability rate = qualified ÷ conversations had**
+  (confirmed 2026-08-05) — the number of conversations matters less than
+  what fraction of them reveal a real fit. A small number of
+  conversations with a high applicability rate is a stronger signal than
+  a larger number with a low one. Note: with very few conversations
+  (single digits), read the rate as early directional signal, not a
+  statistically settled answer — the 100-touch/2-week checkpoint below
+  is still where confidence in the number actually builds.
 - **Validation checkpoint — revised from "today" to a larger sample:**
   cold-outreach connect rates are often low and replies lag by days, so
   today's ~30-45 touches alone risks reading normal response lag as "no
