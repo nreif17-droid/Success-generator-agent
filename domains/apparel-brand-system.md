@@ -186,8 +186,11 @@ followers on Nolan's existing personal page, which is the launch vehicle
 
 ## Open items
 
-- Sales channel not finalized (Shopify vs. an AI store-builder tool TBD)
-  — most of this playbook is channel-agnostic; revisit once decided.
+- **Brand name confirmed 2026-08-05: Etherbound** (previously untitled
+  in this repo).
+- Sales channel: **Base44 prompt built 2026-08-05** — see
+  `domains/etherbound-base44-app-prompt.md`. Not yet fully decided over
+  Shopify, but treated as the working choice unless revisited.
 - Reorder threshold, shipping SLA, and automation thresholds above are
   placeholders pending real operating data — flagged explicitly rather
   than presented as decided numbers.
