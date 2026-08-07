@@ -30,11 +30,23 @@ Last updated: 2026-08-05 (check-in, see below)
 ## Niche
 - Property management firms (short-term rental focus).
 - Value/pricing scales with number of properties managed by the client firm.
-- **Live validation decision point:** today's outreach round (~30-45
-  total touches) is the explicit go/pivot checkpoint — continue in this
-  niche if it validates, pivot to a different niche if it doesn't.
-  Validation criteria: **open, needs Nolan's call before results come
-  in.**
+- **Qualification criteria (confirmed 2026-08-05)** — a prospect counts
+  as qualified once a conversation confirms both:
+  1. The process is currently handled manually (human staff time, not
+     already software-automated).
+  2. Real labor cost is tied to that manual work (a team on it,
+     meaningful hours) — genuine savings potential from automating it.
+- **Funnel to track:** Touches sent → Connected (actual reply/live
+  conversation) → Qualified (meets both criteria above). Track qualified
+  ÷ connected, and qualified ÷ touches over time.
+- **Validation checkpoint — revised from "today" to a larger sample:**
+  cold-outreach connect rates are often low and replies lag by days, so
+  today's ~30-45 touches alone risks reading normal response lag as "no
+  demand." **Go/pivot decision point moved to the first 100 touches or 2
+  full weeks of consistent outreach, whichever comes first.** Zero
+  qualified conversations by then is a real pivot signal; any qualified
+  conversations before then are genuine validation, tracked as they
+  happen, not withheld until the checkpoint.
 
 ## Pricing — pilot ladder (first 3 clients)
 
