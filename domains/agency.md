@@ -23,9 +23,14 @@ Last updated: 2026-08-05 (check-in, see below)
   implication: "deployable" means integrated with the *specific* PMS the
   first real client uses, not a universal integration built in advance —
   matches the same prove-it-with-one-real-case-first discipline used
-  elsewhere in this system. Which PMS is most common among the firms
-  actually being reached out to is worth confirming once outreach
-  produces real conversations.
+  elsewhere in this system. **Regional research (see `domains/agency-
+  local-network.md`) confirms Guesty, Hostaway, Track, and Buildium are
+  common in this specific market**, and surfaces Breezeway and Turno as
+  vendor-dispatch tools possibly more directly relevant than the PMS
+  itself — worth checking whether the agency's service competes with,
+  complements, or should integrate alongside those. Still confirm which
+  is most common among firms actually reached, once real conversations
+  happen.
 
 ## Niche
 - Property management firms (short-term rental focus).
